@@ -4,7 +4,7 @@
 
 Este código representa la implementación de una Lista Enlazada Simple utilizando memoria dinámica. El objetivo principal es demostrar el control de punteros y la gestión de nodos en el "Heap". 💻
 
-###¿Qué hace el código?
+¿Qué hace el código?
 
 Gestión Dinámica: Utiliza el operador new para crear espacios de memoria por cada nodo de forma indefinida. 🧠
 
@@ -20,7 +20,7 @@ El promedio aritmético de los datos. 📊
 
 Salida Visual: Genera una representación gráfica de la estructura en consola (ej. 10 -> 7 -> 25 -> NULL) para verificar la correcta conectividad de los punteros. 📍
 
-###¿Cómo se utiliza?
+¿Cómo se utiliza?
 
 Al ejecutar, el sistema te pedirá ingresar un número entero.
 
